@@ -1,0 +1,89 @@
+.container{
+    margin: auto;
+    width: 80%;
+}
+/* index css kodları */
+.icerik_header{
+    border: 3px solid black; 
+    height: 160vh;
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+    padding-bottom: 3rem;
+}
+.img img{
+    padding-top: 2rem;
+}
+.img2 img{
+    display: flex;
+    margin: auto;
+}
+.img3 img{
+    display: flex;
+    margin-left: 500px;
+    padding-top: 1rem;
+}
+.footer_header{
+    background-color: black;
+    width: 100%;
+    height: 35vh;
+    
+}
+
+/* biralar css kodları */
+.bira-header{
+    background-color: black;
+}
+.carousel-item img{
+    margin: auto;
+}
+.carousel-item{
+    padding-top: 3rem ;
+}
+.icerik-header{
+    border: 5px solid white;
+    
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: flex;
+   
+}
+h5{
+    padding-right: 1rem;
+}
+
+/* çerezler için css */
+.cerez img {
+    display: flex;
+    width: 150px;
+    padding: 1rem;
+}
+
+.cerez h3{
+    display: flex;
+    color: cornsilk;
+    text-align: end;
+}
+.menu-header ul{
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+    padding-left: 2rem; 
+}
+.menu-header ul li{
+    padding: 1rem;
+    color: beige;
+    display: flex;
+    justify-content: end;  
+    font-size: large;
+     
+}
+.menu-header{
+    border: 5px solid white;
+    background-color: cadetblue;
+}
